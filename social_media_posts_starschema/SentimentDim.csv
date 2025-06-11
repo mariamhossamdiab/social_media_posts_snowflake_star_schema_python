@@ -1,0 +1,16 @@
+sentiment_id,sentiment_label,emotion_type
+1,Positive,Confused
+2,Negative,Angry
+3,Negative,Confused
+4,Negative,Sad
+5,Positive,Happy
+6,Negative,Excited
+7,Positive,Sad
+8,Positive,Excited
+9,Positive,Angry
+10,Neutral,Excited
+11,Neutral,Happy
+12,Negative,Happy
+13,Neutral,Sad
+14,Neutral,Confused
+15,Neutral,Angry
